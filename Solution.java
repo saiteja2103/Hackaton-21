@@ -95,7 +95,7 @@ class Result {
 
 public class Solution {
     public static void main(String[] args) throws IOException {
-        String filePath = "input.json"; // Directly use input.json
+        String filePath = "input2.json"; // Directly use input.json
 
         BigInteger result = Result.findConstantC(filePath);
 
